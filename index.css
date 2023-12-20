@@ -1,0 +1,39 @@
+.container{
+  background: lightgreen;
+  padding: 10px;
+}
+
+#output{
+  margin-top: 10px;
+  height: 100px;
+}
+
+button{
+  padding: 10px;
+  border-radius: 4px;
+  font-size: 18px;
+  font-weight: 100;
+  background: thistle;
+  margin: 8px;
+}
+
+button:hover{
+  background: #f1f1f1;
+}
+
+#exp{
+  float: right;
+  margin: 8px;
+}
+
+#explica{
+  padding: 16px 70px;
+  display: none;
+  position: fixed;
+  top :100px;
+  background: grey;
+  font-size: 22px;
+}
+
+
+
